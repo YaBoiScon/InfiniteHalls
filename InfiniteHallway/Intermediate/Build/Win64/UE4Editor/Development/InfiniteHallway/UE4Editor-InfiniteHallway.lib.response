@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-InfiniteHallway.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\InfiniteHallwayEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallway.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayCharacter.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayGameMode.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayHUD.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayProjectile.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallway.init.gen.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayCharacter.gen.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayGameMode.gen.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayHUD.gen.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\InfiniteHallwayProjectile.gen.cpp.obj"
+"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\Default.rc2.res"
+/OUT:"C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\UE4Editor-InfiniteHallway.lib"

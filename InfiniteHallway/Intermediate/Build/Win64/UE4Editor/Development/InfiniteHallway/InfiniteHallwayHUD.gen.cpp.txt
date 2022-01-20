@@ -1,0 +1,10 @@
+C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\Definitions.InfiniteHallway.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Source\InfiniteHallway/InfiniteHallwayHUD.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Program Files\Epic\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Program Files\Epic\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Program Files\Epic\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Inc\InfiniteHallway\InfiniteHallwayHUD.generated.h

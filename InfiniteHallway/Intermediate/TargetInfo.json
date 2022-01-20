@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InfiniteHallway",
+			"Path": "C:\\Users\\schoe\\OneDrive\\Desktop\\Portfolio Pieces\\Hallways\\InfiniteHallway\\Source\\InfiniteHallway.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InfiniteHallwayEditor",
+			"Path": "C:\\Users\\schoe\\OneDrive\\Desktop\\Portfolio Pieces\\Hallways\\InfiniteHallway\\Source\\InfiniteHallwayEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
