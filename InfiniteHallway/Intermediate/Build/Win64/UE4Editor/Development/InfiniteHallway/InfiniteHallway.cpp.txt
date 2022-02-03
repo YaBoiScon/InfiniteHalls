@@ -1,2 +1,0 @@
-C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Intermediate\Build\Win64\UE4Editor\Development\InfiniteHallway\Definitions.InfiniteHallway.h
-C:\Users\schoe\OneDrive\Desktop\Portfolio Pieces\Hallways\InfiniteHallway\Source\InfiniteHallway\InfiniteHallway.h
